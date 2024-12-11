@@ -1,6 +1,8 @@
+#define _GNU_SOURCE
 #include <getopt.h>
 #include <regex.h>
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 
 #define MAX_STRING_LENGHT 100
